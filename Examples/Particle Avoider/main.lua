@@ -5,7 +5,7 @@
 local showFPS <const> = false -- SET TO 'true' TO SEE FPS
 
 import "CoreLibs/graphics"
-import "coreLibs/object"
+import "CoreLibs/object"
 import "pdParticles"
 
 local gfx <const> = playdate.graphics
